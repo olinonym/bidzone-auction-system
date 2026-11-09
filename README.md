@@ -1,5 +1,5 @@
 # 🎓 BidZone - Real-Time Full-Stack Auction Platform
-> 🌐 **Live Demo Website:** [https://bidzone-demo-folk.lucidolive.chatgpt.site/](htt
+> 🌐 **Live Demo Website:** [https://bidzone-demo-folk.lucidolive.chatgpt.site/](https://bidzone-demo-folk.lucidolive.chatgpt.site/)
 > **Term Project** สำหรับรายวิชา 305311 Database  
 
 ---
